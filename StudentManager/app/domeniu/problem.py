@@ -4,7 +4,6 @@
   date 12/10/2022
   
 """
-from app.domeniu.entitate import Entitate
 from dataclasses import dataclass
 '''
 class Problem(Entitate):

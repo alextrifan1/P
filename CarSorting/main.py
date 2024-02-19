@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     car_serivce = CarService(car_repo)
     console = CarConsole(car_serivce)
-    
+
     #toate comenzile
 
     #PRINT all

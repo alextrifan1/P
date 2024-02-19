@@ -5,8 +5,6 @@
   
 """
 from dataclasses import dataclass
-
-from app.domeniu.entitate import Entitate
 '''
 class Student(Entitate):
     def __init__(self, idStudent, name, grup):
